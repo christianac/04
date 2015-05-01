@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'tetrico_db',
-			'username'  => 'root',
-			'password'  => '',
+			'host'      => 'mysql.hostinger.com.ar',
+			'database'  => 'u131656209_music',
+			'username'  => 'u131656209_music',
+			'password'  => 'paramore761',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
